@@ -1,0 +1,12 @@
+This project gives the user control to many mouse specific controls (including API) in an easy to use OCX. This can also be used as a sample active x control.
+This project gives access to things such as:
+Capturing Mouse
+Coordinate Tracking
+Cursor Changing
+Double Click speed information/ changing
+Input blocking
+Cursor Displaying/Hiding
+Mouse Button Swapping
+Mouse Button count
+Cursor position changing
+And other miscellaneous information
